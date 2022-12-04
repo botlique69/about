@@ -78,8 +78,12 @@ img {
 }
 .content {
     border-top: 1px solid hsla(0, 0%, 30%, .8);
+    font-family: 'Nerko One';
   }
   img:hover {
     transform: scale(1.1);
     filter: grayscale(20%);
+  }
+  .links {
+    letter-spacing: 3px;
   }
