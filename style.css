@@ -1,15 +1,15 @@
 
 .page {
-    background-color: chartreuse;
+    background-color: charreuse;
 }
 .head {
-    background-color: aqua;
+    background-color: aua;
 }
 .content {
-    background-color: darkgoldenrod;
+    background-color: darkgolderod;
 }
 .links {
-    background-color: rgb(143, 0, 209);
+    background-color: rb(143, 0, 209);
 }
 /* CSS reset */
 
@@ -45,7 +45,7 @@
     height: 120px;
     border-radius: 50%;
   }
-  .profile-img {
+  .profile-image {
     margin-top: -60px;
   }
   /* Contact links */
@@ -61,7 +61,7 @@ ul {
     margin-bottom: 10%;
   }
   body {
-    background: url('http://i.imgur.com/9kh3G8L.jpg') no-repeat center center fixed;
+    background: url('https://i.imgur.com/CmTdjBU.jpg') no-repeat center center fixed;
     background-size: cover;
   }
   .page {
@@ -74,6 +74,7 @@ img {
   background-color: #666;
   filter: grayscale(50%);
   transition: all 0.5s ease-in-out;
+  
 
 }
 .content {
@@ -86,4 +87,10 @@ img {
   }
   .links {
     letter-spacing: 3px;
+  }
+  .head {
+    margin-bottom: 20px;
+  }
+  h1:hover {
+    color: blue;
   }
