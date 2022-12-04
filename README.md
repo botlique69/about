@@ -1,1 +1,2 @@
 # about,rólam
+kezdő leckék
